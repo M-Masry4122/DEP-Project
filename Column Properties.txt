@@ -1,0 +1,16 @@
+The Track Properties
+
+1) Genre - the genre of the track
+3) Year - the release year of the recording.
+4) Added - the earliest date you added the track to your collection.
+5) Beats Per Minute (BPM) - The tempo of the song.
+6) Energy - The energy of a song - the higher the value, the more energtic. song
+7) Danceability - The higher the value, the easier it is to dance to this song.
+8) Loudness (dB) - The higher the value, the louder the song.
+9) Liveness - The higher the value, the more likely the song is a live recording.
+10) Valence - The higher the value, the more positive mood for the song.
+11) Length - The duration of the song.
+12) Acousticness - The higher the value the more acoustic the song is.
+13) Speechiness - The higher the value the more spoken word the song contains.
+14) Popularity - The higher the value the more popular the song is.
+15) Duration - The length of the song.
